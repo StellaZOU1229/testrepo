@@ -1,2 +1,4 @@
 # This is a test py file
-Print("Hello World")
+print("Hello World")
+## Test modify the file from the child branch
+print("Child branch merged.")
